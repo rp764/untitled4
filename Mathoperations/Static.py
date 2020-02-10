@@ -37,7 +37,7 @@ class root:
     @staticmethod
     def root(degree,radicand):
         return degree**radicand
-class log:
+class logg:
     @staticmethod
     def logarithm(base,x):
         return log
