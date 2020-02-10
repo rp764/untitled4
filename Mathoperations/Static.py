@@ -40,4 +40,4 @@ class root:
 class log:
     @staticmethod
     def logarithm(base,x):
-        return log base x
+        return log
