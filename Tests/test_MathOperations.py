@@ -2,6 +2,9 @@ import unittest
 
 from MathOperations.addition import Addition
 from MathOperations.subtraction import Subtraction
+from Mathoperations.Static import Multiplication
+from Mathoperations.Static import Divsion
+
 
 
 class MyTestCase(unittest.TestCase):
