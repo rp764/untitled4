@@ -23,7 +23,7 @@ class MyTestCase(unittest.TestCase):
     def test_calculator_return_multiplication(self):
         result = self.calculator.Multiplication(1,3)
         self.assertEqual(3,result)
-    
+
 
 
 
